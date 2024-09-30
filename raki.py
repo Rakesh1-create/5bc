@@ -1,0 +1,2 @@
+print("mandya");
+print("mmm");
